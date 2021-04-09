@@ -24,7 +24,7 @@ N/A
 |:--------|:-----------------------------------------------------------------------------------|
 | 62      | https://drive.google.com/file/d/1alo2wSgloB-oVzYtp31C_x4Gn175YmzC/view?usp=sharing |
 | 117.2   |                                                                                    |
-| 142     |                                                                                    |
+| 142     | https://drive.google.com/file/d/1xG_8KqsVro1zjCtBkPVE3Aiwk3vXyFjQ/view?usp=sharing |
 
 ### JMS (Japan)
 
@@ -39,7 +39,7 @@ N/A
 | Version | Link                                                                               |
 |:--------|:-----------------------------------------------------------------------------------|
 | 113     | https://drive.google.com/file/d/1Bc-VJF4bOZqVwB6ius2d6YQmVQaGhFnx/view?usp=sharing |
-| 119     |                                                                                    |
+| 119     | https://drive.google.com/file/d/1xG_8KqsVro1zjCtBkPVE3Aiwk3vXyFjQ/view?usp=sharing |
 | 120     | https://drive.google.com/file/d/1oHtysmgBizOlyUdpqROC10k7Fsln4flR/view?usp=sharing |
 
 ### MSTH (Thailand)
