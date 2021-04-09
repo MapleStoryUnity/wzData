@@ -2,9 +2,42 @@
 
 Collection of MapleStory wz files.
 
-* [KMS (Korea)]()
-* [GMS (Global)](https://drive.google.com/drive/folders/1wLVZSaWZNQ8QdpQLtsAB7F5zYdtlrL2-?usp=sharing)
-* [JMS (Japan)]()
-* [CMS (China)]()
-* [TMS (Taiwan)](https://drive.google.com/drive/folders/1sWxsc6__aj9f-uyRTAVwJDVjclMF_Gxt?usp=sharing)
-* [MSTH (Thailand)]()
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [wzData](#wzdata)
+    - [GMS (Global)](#gms-global)
+    - [JMS (Japan)](#jms-japan)
+    - [CMS (China)](#cms-china)
+    - [TMS (Taiwan)](#tms-taiwan)
+    - [MSTH (Thailand)](#msth-thailand)
+
+<!-- markdown-toc end -->
+
+### KMS (Korea)
+
+N/A
+
+### GMS (Global)
+
+| Version No. | Link                                                                               |
+|:------------|:-----------------------------------------------------------------------------------|
+| 62          | https://drive.google.com/file/d/1alo2wSgloB-oVzYtp31C_x4Gn175YmzC/view?usp=sharing |
+
+### JMS (Japan)
+
+N/A
+
+### CMS (China)
+
+N/A
+
+### TMS (Taiwan)
+
+| Version No. | Link                                                                               |
+|:------------|:-----------------------------------------------------------------------------------|
+| 113         | https://drive.google.com/file/d/1Bc-VJF4bOZqVwB6ius2d6YQmVQaGhFnx/view?usp=sharing |
+
+### MSTH (Thailand)
+
+N/A
