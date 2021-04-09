@@ -23,7 +23,6 @@ N/A
 | Version | Link                                                                               |
 |:--------|:-----------------------------------------------------------------------------------|
 | 62      | https://drive.google.com/file/d/1alo2wSgloB-oVzYtp31C_x4Gn175YmzC/view?usp=sharing |
-| 117.2   |                                                                                    |
 | 142     | https://drive.google.com/file/d/1xG_8KqsVro1zjCtBkPVE3Aiwk3vXyFjQ/view?usp=sharing |
 
 ### JMS (Japan)
